@@ -23,7 +23,11 @@ Below are the steps followed in the process
 - Step 5: Results
 
 ## Conclusions
-
+- Major Parameter which drive the Defaulters are – Verification Status, Annual Income, Interest Rate, DTI, Purpose of Loan
+- Loan taken for Small Business are more likely to be defaulters.
+- Applicants whose home ownership is 'MORTGAGE’ or ‘RENT’ are more likely to be defaulters
+- Increased interest rate is a strong factor for defaulting loan amount.
+- Higher the interest rate , higher chance of getting charged off 
 
 ## Technologies Used
 - Python - version 3.7.6
